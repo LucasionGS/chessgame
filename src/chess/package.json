@@ -1,0 +1,10 @@
+{
+  "name": "base-chess-game",
+  "version": "1.0.0",
+  "main": "dist/Chess.js",
+  "scripts": { },
+  "keywords": ["chess", "customizable", "typed"],
+  "author": "Lucasion",
+  "license": "MIT",
+  "description": ""
+}
